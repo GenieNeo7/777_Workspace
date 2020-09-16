@@ -2,7 +2,15 @@
 	"folders": [
 		{
 			"path": "ToDoList"
+		},
+		{
+			"path": "RestaurantShare-with-Django"
+		},
+		{
+			"path": "ExcelCalculate"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "RestaurantShare-with-Django"
+	}
 }
